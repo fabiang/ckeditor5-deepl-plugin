@@ -1,7 +1,7 @@
 {
-    "name": "@fabiang/ckeditor-deepl-module",
+    "name": "@fabiang/ckeditor-deepl-plugin",
     "version": "0.1.0",
-    "keywords": ["ckeditor", "ckeditor-plugin", "deepl"],
+    "keywords": ["ckeditor", "ckeditor-plugin", "deepl", "ckeditor5", "ckeditor5-plugin"],
     "author": "Fabian Grutschus",
     "contributors": [],
     "dependencies": {
