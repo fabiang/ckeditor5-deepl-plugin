@@ -1,4 +1,4 @@
-# @fabiang/ckeditor-deepl-plugin
+# @fabiang/ckeditor5-deepl-plugin
 
 CKEditor module that integrates Deepl translation engine.
 
