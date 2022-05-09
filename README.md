@@ -1,6 +1,8 @@
 # @fabiang/ckeditor5-deepl-plugin
 
-CKEditor module that integrates Deepl translation engine.
+CKEditor plugin that integrates Deepl translation engine.
+It will translate the whole editor content including the HTML tags,
+but Deepl is able to leave them untouched.
 
 [![npm version](https://badge.fury.io/js/@fabiang%2Fckeditor5-deepl-plugin.svg)](https://badge.fury.io/js/@fabiang%2Fckeditor5-deepl-plugin)
 
