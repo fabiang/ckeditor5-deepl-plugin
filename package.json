@@ -6,7 +6,9 @@
         "ckeditor-plugin",
         "deepl",
         "ckeditor5",
-        "ckeditor5-plugin"
+        "ckeditor5-plugin",
+        "translation",
+        "i18n"
     ],
     "author": "Fabian Grutschus",
     "contributors": [],
